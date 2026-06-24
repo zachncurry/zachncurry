@@ -12,5 +12,5 @@
 - 😄 Pronouns: ... He, Him
 - ⚡ Fun fact: ... I have worked on Cruise Ships, I love coffee ☕, and bench 225+lbs because I love the gym!
 
-Consistency bring progress, progress brings opportunity!
+Consistency brings progress, progress brings opportunity!
 
