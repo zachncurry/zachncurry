@@ -11,6 +11,7 @@
 - 📫 How to reach me: ... LinkedIn
 - 😄 Pronouns: ... He, Him
 - ⚡ Fun fact: ... I have worked on Cruise Ships, I love coffee ☕, and bench 225+ lbs
+- 🦺 Volunteering Includes: Information Technology Disaster Resource Center (ITDRC) & PMI Tampa Bay Chapter
 
 ## Certifications
 <div>
