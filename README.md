@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-#I'm Zach, a Network and Security Engineer based in Tampa, Florida.
+# I'm Zach, a Network and Security Engineer based in Tampa, Florida.
 
 
 - 🔭 I’m currently working on ... Opportunities for internships within Cybersecurity Software Engineering or Enterprise Architecture
