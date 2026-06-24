@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there! 👋
 
-<!--
-**zachncurry/zachncurry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Zach, a network and security engineer based in Tampa, Florida.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on ... Opportunities for internships within Cybersecurity Software Engineering or Enterprise Architecture
+- 🌱 I’m currently learning ... Cisco DevNet Associate
+- 👯 I’m looking to collaborate on ... Cybersercurity Concepts & Cryptography Methods
+- 🤔 I’m looking for help with ... Breaking into cybersecurity software engineering
+- 💬 Ask me about ... Program Management & Operations
+- 📫 How to reach me: ... LinkedIn
+- 😄 Pronouns: ... He, Him
+- ⚡ Fun fact: ... I have lived in Chicago 🏙️, I love coffee ☕, and bench 225+lbs because I love the gym!
+
+Consistency bring progress, progress brings opportunity!
+
