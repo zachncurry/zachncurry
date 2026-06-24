@@ -10,7 +10,7 @@
 - 💬 Ask me about ... Program Management & Operations
 - 📫 How to reach me: ... LinkedIn
 - 😄 Pronouns: ... He, Him
-- ⚡ Fun fact: ... I have worked on Cruise Ships, I love coffee ☕, and bench 225+lbs because I love the gym!
+- ⚡ Fun fact: ... I have worked on Cruise Ships, I love coffee ☕, and bench 225+ lbs
 
 ## Certifications
 <div>
