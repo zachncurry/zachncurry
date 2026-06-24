@@ -3,7 +3,7 @@
 ### I'm Zach, a Network and Security Engineer based in Tampa, Florida.
 
 
-- 🔭 I’m currently working on ... Opportunities for internships within Cybersecurity Software Engineering or Enterprise Architecture
+- 🔭 I’m currently working on ... Mini-SIEM (Security Information and Event Management Ingestion Pipeline
 - 🌱 I’m currently learning ... Cisco DevNet Associate
 - 👯 I’m looking to collaborate on ... Cybersercurity Concepts & Cryptography Methods
 - 🤔 I’m looking for help with ... Collaboration opportunities
