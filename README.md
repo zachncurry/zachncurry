@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on ... Opportunities for internships within Cybersecurity Software Engineering or Enterprise Architecture
 - 🌱 I’m currently learning ... Cisco DevNet Associate
 - 👯 I’m looking to collaborate on ... Cybersercurity Concepts & Cryptography Methods
-- 🤔 I’m looking for help with ... Breaking into cybersecurity software engineering
+- 🤔 I’m looking for help with ... Collaboration opportunities
 - 💬 Ask me about ... Program Management & Operations
 - 📫 How to reach me: ... LinkedIn
 - 😄 Pronouns: ... He, Him
