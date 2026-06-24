@@ -4,14 +4,14 @@
 
 
 - 🔭 I’m currently working on ... Mini-SIEM (Security Information and Event Management) Ingestion Pipeline
-- 🌱 I’m currently learning ... Cisco DevNet Associate
+- 🌱 I’m currently learning ... [Cisco DevNet Associate](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/automation/ccna-automation/index.html)
 - 👯 I’m looking to collaborate on ... Cybersercurity Concepts & Cryptography Methods
 - 🤔 I’m looking for help with ... Collaboration opportunities
 - 💬 Ask me about ... Program Management & Operations
-- 📫 How to reach me: ... LinkedIn
+- 📫 How to reach me: ... [LinkedIn]()
 - 😄 Pronouns: ... He, Him
 - ⚡ Fun fact: ... I have worked on Cruise Ships, I love coffee ☕, and bench 225+ lbs
-- 🦺 Volunteering Includes: Information Technology Disaster Resource Center (ITDRC) & PMI Tampa Bay Chapter
+- 🦺 Volunteering Includes: [Information Technology Disaster Resource Center (ITDRC)](https://www.itdrc.org/) & [PMI Tampa Bay Chapter](https://pmitb.org/)
 
 ## Certifications
 <div>
