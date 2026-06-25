@@ -3,7 +3,7 @@
 ### I'm Zach, a Network and Security Engineer based in Tampa, Florida.
 
 
-- 🔭 I’m currently working on ... Mini-SIEM (Security Information and Event Management) Ingestion Pipeline using Wazuh as a VM node in GNS3
+- 🔭 I’m currently working on ... SIEM (Security Information and Event Management) Ingestion Pipeline using Wazuh as a VM node in GNS3
 - 🌱 I’m currently learning ... [Cisco DevNet Associate](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/automation/ccna-automation/index.html)
 - 👯 I’m looking to collaborate on ... Cybersercurity Concepts & Cryptography Methods
 - 🤔 I’m looking for help with ... Collaboration opportunities
