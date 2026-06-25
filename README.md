@@ -31,3 +31,11 @@
   <img src = "https://images.credly.com/size/340x340/images/1d36cb36-20fc-4961-8d70-6307c015d1aa/blob" style ="width: 100px; height: 100px; background-color: white" />
 </a>
 </div>
+
+## My Personal Development Strategy
+
+As a technical leader with a proven track record of delivering enterprise applications for Fortune 500 banks, my focus is bridging high-level architecture with hands-on technical execution. Driven by this 'Player-Coach' philosophy, I am currently scaling my expertise into advanced network engineering and security. In today's AI-driven landscape, the widespread availability of boilerplate code and sophisticated automation tools significantly expands the corporate attack surface. As AI simultaneously upskills threat actors and hyperscale data centers accelerate physical infrastructure growth, the demand for secure, resilient network environments has never been higher. I position myself at this critical intersection: aligning enterprise security strategy with robust, hands-on implementation to defend complex modern infrastructures.
+
+My currrent courses include the Cisco DevNet Associate (CCNA Auto) Certification and as I study I will also be building projects for my GitHub as of July 2026.
+
+With a proven track record as a Program Manager, I am looking to transition my expertise into the Cybersecurity Managed Services sector. MSPs represent the highest growth potential in the industry, and I am specifically drawn to organizations actively innovating through novel cryptography and cutting-edge security products. I am looking for a role where I can apply my execution framework to help scale and secure these emerging technical solutions.
