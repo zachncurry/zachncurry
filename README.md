@@ -10,7 +10,7 @@
 - 💬 Ask me about ... Program Management & Operations
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/zachary-curry-pmp/)
 - 😄 Pronouns: ... He, Him
-- ⚡ Fun fact: ... I have worked on Cruise Ships, I love coffee ☕, and bench 225+ lbs
+- ⚡ Fun fact: ... I have worked on Cruise Ships, I love coffee ☕, and bench 205+ lbs
 - 🦺 Volunteering Includes: [Information Technology Disaster Resource Center (ITDRC)](https://www.itdrc.org/) & [PMI Tampa Bay Chapter](https://pmitb.org/)
 
 ## Certifications
