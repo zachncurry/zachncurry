@@ -13,7 +13,7 @@
             - Automated Threat Intelligence: Aggregate live telemetry to build dynamic adversary profiles and behavioral history.
             - Dynamic Sigma Rule Genreation: Translate captured attack methodologies directly into production ready Sigma rules to update Client SIEM/EDR defenses instantly.
         - High Level Architecture
-            - The Trap: An attacker enters through a GSN3 virtual gateaway and targets on of multiple Cowrie nodes
+            - The Trap: An attacker enters through a GSN3 virtual gateaway and targets one of multiple Cowrie nodes
             - The Collection: Cowrie traps the session, loggin shell execution, source data, and malware hashes
             - The Transport: The Wazuh agent captures these local JSON logs and streams them to the Central Wazuh Manager
             - The Trigger & Orchestration: Wazuh detects a high severity incident and drops an alert event. OpenSecOps ingest the finding via a GSN3 bridge via AWS API Gateway/SQS Queue
