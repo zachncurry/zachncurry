@@ -3,9 +3,9 @@
 ### I'm Zach, a Network and Security Engineer based in Tampa, Florida.
 
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m thinking about working on ...
     - Mini-SIEM (Security Information and Event Management) Ingestion Pipeline OR
-    - Building out a Cybersecurity Connector Suite built with Python, Go, Kafka, and GraphQL TBD
+    - Building out a Cybersecurity Connector Suite built with Python, Go, Kafka, and GraphQL with a Polygolt Persistence Model (Relational & Telemetry DB) using a cloud native infrastructure (Neptune + TimescaleDB + Kafka) however, this is a very large scale project but could have commerical value and already exist in Cisco Cloud Control & ReliaQuest GreyMatter
 - 🌱 I’m currently learning ... [Cisco DevNet Associate](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/automation/ccna-automation/index.html)
 - 👯 I’m looking to collaborate on ... Cybersercurity Concepts & Cryptography Methods
 - 🤔 I’m looking for help with ... Collaboration opportunities
