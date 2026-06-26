@@ -5,7 +5,6 @@
 
 - 🔭 I’m thinking about working on ...
     - Multi-Node Honeypot Orchestrator & Sigma Rule Generator/ Mini-SIEM (Security Information and Event Management) Ingestion Pipeline
-
         - Goal: Generate real time threat intelligence to detect new tools and techniques generating compensating Sigma rules
         - Client Benefits:
             - Zero Production Footprint: The honeypot architecture is entirely decoupled from client operational network. It contains zero client data, hosts no corporate assets, and shares no authentication pathways with your active environment.
