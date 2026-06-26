@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m thinking about working on ...
-    - Mini-SIEM (Security Information and Event Management) Ingestion Pipeline but these are plentiful and open source such as adding Wazuh to a GNS3 instance could make this spicy by adding Cowrie
+    - Mini-SIEM (Security Information and Event Management) Ingestion Pipeline but these are plentiful and open source such as adding Wazuh to a GNS3 instance although could make this spicy by adding Cowrie
     - Building out a Cybersecurity Connector Suite built with Python, Go, Kafka, and GraphQL with a Polygolt Persistence Model (Relational & Telemetry DB) using a cloud native infrastructure (Neptune + TimescaleDB + Kafka) however, this is a very large scale project and it already exist in Cisco Cloud Control, ReliaQuest GreyMatter, DataDog, and others
 - 🌱 I’m currently learning ... [Cisco DevNet Associate](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/automation/ccna-automation/index.html)
 - 👯 I’m looking to collaborate on ... Cybersercurity Concepts & Cryptography Methods
