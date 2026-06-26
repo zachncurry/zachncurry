@@ -11,7 +11,7 @@
 - ⚡ Fun fact: ... I have worked on Cruise Ships, I love coffee ☕, and bench 205+ lbs
 - 🦺 Volunteering Includes: [Information Technology Disaster Resource Center (ITDRC)](https://www.itdrc.org/) & [PMI Tampa Bay Chapter](https://pmitb.org/)
 - 🔭 I’m thinking about working on ...
-    - Multi-Node Honeypot Orchestrator & Sigma Rule Generator/ Mini-SIEM (Security Information and Event Management) Ingestion Pipeline
+    - [Multi-Node Honeypot Orchestrator & Sigma Rule Generator/ Mini-SIEM (Security Information and Event Management) Ingestion Pipeline](https://github.com/zachncurry/BuzzyBee/tree/main)
     - Building out a Cybersecurity Connector Suite built with Python, Go, Kafka, and GraphQL with a Polygolt Persistence Model (Relational & Telemetry DB) using a cloud native infrastructure (Neptune + TimescaleDB + Kafka) however, this is a very large scale project and it already exist in Cisco Cloud Control, ReliaQuest GreyMatter, DataDog, and others
 
 ## Certifications
