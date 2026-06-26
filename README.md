@@ -2,28 +2,6 @@
 
 ### I'm Zach, a Network and Security Engineer based in Tampa, Florida.
 
-
-- 🔭 I’m thinking about working on ...
-    - Multi-Node Honeypot Orchestrator & Sigma Rule Generator/ Mini-SIEM (Security Information and Event Management) Ingestion Pipeline
-        - Goal: Generate real time threat intelligence to detect new tools and techniques generating compensating Sigma rules
-        - Client Benefits:
-            - Zero Production Footprint: The honeypot architecture is entirely decoupled from client operational network. It contains zero client data, hosts no corporate assets, and shares no authentication pathways with your active environment.
-            - Safe-Zone Engagement: Threat actors are seamlessly diverted into an isolated "digital sandbox." This allows us to observe, document, and study active attack methodologies in real time without risking data integrity, compliance posture, or business continuity.
-            - Proactive Defenses, Zero Friction: Your organization receives all the strategic benefits of advanced, real-time threat intelligence such as custom, localized detection rules, with absolutely zero operational risk.
-        - Tools: Wazuh, GNS3, Cowrie🐝, OpenSecOps - SOAR
-        - Key Features:
-            - Concurrent Multi-Honeypot Orchestration: Deploy and manage multiple, geographically or logically distinct decoy nodes simultaneously to isolate and triangulate coordinated campaigns.
-            - Real Time TPP Profiling: Log and document attacker tools, tactics, and procedures (TTPs) aligned with the MITRE ATT&CK framework.
-            - Automated Threat Intelligence: Aggregate live telemetry to build dynamic adversary profiles and behavioral history.
-            - Dynamic Sigma Rule Genreation: Translate captured attack methodologies directly into production ready Sigma rules to update Client SIEM/EDR defenses instantly.
-  
-        - High Level Architecture
-            - The Trap: An attacker enters through a GSN3 virtual gateaway and targets one of multiple Cowrie nodes
-            - The Collection: Cowrie traps the session, loggin shell execution, source data, and malware hashes
-            - The Transport: The Wazuh agent captures these local JSON logs and streams them to the Central Wazuh Manager
-            - The Trigger & Orchestration: Wazuh detects a high severity incident and drops an alert event. OpenSecOps ingest the finding via a GSN3 bridge via AWS API Gateway/SQS Queue
-            - The Action (Sigma Generation): OpenSecOps triggers a pipeline (like a serverless script) to extract the attacker's specific TTPs from the log and auto-generates a structured Sigma rule, ready for defense     
-    - Building out a Cybersecurity Connector Suite built with Python, Go, Kafka, and GraphQL with a Polygolt Persistence Model (Relational & Telemetry DB) using a cloud native infrastructure (Neptune + TimescaleDB + Kafka) however, this is a very large scale project and it already exist in Cisco Cloud Control, ReliaQuest GreyMatter, DataDog, and others
 - 🌱 I’m currently learning ... [Cisco DevNet Associate](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/automation/ccna-automation/index.html)
 - 👯 I’m looking to collaborate on ... Cybersercurity Concepts & Cryptography Methods
 - 🤔 I’m looking for help with ... Collaboration opportunities
@@ -32,6 +10,9 @@
 - 😄 Pronouns: ... He, Him
 - ⚡ Fun fact: ... I have worked on Cruise Ships, I love coffee ☕, and bench 205+ lbs
 - 🦺 Volunteering Includes: [Information Technology Disaster Resource Center (ITDRC)](https://www.itdrc.org/) & [PMI Tampa Bay Chapter](https://pmitb.org/)
+- 🔭 I’m thinking about working on ...
+    - Multi-Node Honeypot Orchestrator & Sigma Rule Generator/ Mini-SIEM (Security Information and Event Management) Ingestion Pipeline
+    - Building out a Cybersecurity Connector Suite built with Python, Go, Kafka, and GraphQL with a Polygolt Persistence Model (Relational & Telemetry DB) using a cloud native infrastructure (Neptune + TimescaleDB + Kafka) however, this is a very large scale project and it already exist in Cisco Cloud Control, ReliaQuest GreyMatter, DataDog, and others
 
 ## Certifications
 <div>
