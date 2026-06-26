@@ -4,7 +4,20 @@
 
 
 - 🔭 I’m thinking about working on ...
-    - Mini-SIEM (Security Information and Event Management) Ingestion Pipeline but these are plentiful and open source such as adding Wazuh to a GNS3 instance although could make this spicy by adding Cowrie then layer a SOAR such as OpenSecOps which also gives me the idea these should be plentiful on the internet to keep threats busy with decoys AND to safely monitor for emerging threats without risk to document new tools and techinuqes expanding threat intelligence collection 🤔 
+    - Multi-Node Honeypot Orchestrator & Sigma Rule Generator/ Mini-SIEM (Security Information and Event Management) Ingestion Pipeline
+        - Goal: Generate real time threat intelligence to detect new tools and techniques generating compensating Sigma rules
+        - Tools: Wazuh, GNS3, Cowrie🐝, OpenSecOps - SOAR
+        - Key Features:
+            - Concurrent Multi-Honeypot Orchestration: Deploy and manage multiple, geographically or logically distinct decoy nodes simultaneously to isolate and triangulate coordinated campaigns.
+            - Real Time TPP Profiling: Log and document attacker tools, tactics, and procedures (TTPs) aligned with the MITRE ATT&CK framework.
+            - Automated Threat Intelligence: Aggregate live telemetry to build dynamic adversary profiles and behavioral history.
+            - Dynamic Sigma Rule Genreation: Translate captured attack methodologies directly into production ready Sigma rules to update Client SIEM/EDR defenses instantly.
+        - High Level Architecture
+            - The Trap: An attacker enters through a GSN3 virtual gateaway and targets on of multiple Cowrie nodes
+            - The Collection: Cowrie traps the session, loggin shell execution, source data, and malware hashes
+            - The Transport: The Wazuh agent captures these local JSON logs and streams them to the Central Wazuh Manager
+            - The Trigger & Orchestration: Wazuh detects a high severity incident and drops an alert event. OpenSecOps ingest the finding via a GSN3 bridge via AWS API Gateway/SQS Queue
+            - The Action (Sigma Generation): OpenSecOps triggers a pipeline (like a serverless script) to extract the attacker's specific TTPs from the log and auto-generates a structured Sigma rule, ready for defense     
     - Building out a Cybersecurity Connector Suite built with Python, Go, Kafka, and GraphQL with a Polygolt Persistence Model (Relational & Telemetry DB) using a cloud native infrastructure (Neptune + TimescaleDB + Kafka) however, this is a very large scale project and it already exist in Cisco Cloud Control, ReliaQuest GreyMatter, DataDog, and others
 - 🌱 I’m currently learning ... [Cisco DevNet Associate](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/automation/ccna-automation/index.html)
 - 👯 I’m looking to collaborate on ... Cybersercurity Concepts & Cryptography Methods
