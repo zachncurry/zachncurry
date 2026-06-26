@@ -11,8 +11,8 @@
 - ⚡ Fun fact: ... I have worked on Cruise Ships, I love coffee ☕, and bench 205+ lbs
 - 🦺 Volunteering Includes: [Information Technology Disaster Resource Center (ITDRC)](https://www.itdrc.org/) & [PMI Tampa Bay Chapter](https://pmitb.org/)
 - 🔭 I’m thinking about working on ...
-    - [BuzzyBee](https://github.com/zachncurry/BuzzyBee/tree/main) a multi-Node Honeypot Orchestrator & Sigma Rule Generator/ Mini-SIEM (Security Information and Event Management) Ingestion Pipeline
-    - [CyberConnected](https://github.com/zachncurry/CyberConnected) A Cybersecurity Connector Suite built with Python, Go, Kafka, and GraphQL with a Polygolt Persistence Model (Relational & Telemetry DB) using a cloud native infrastructure (Neptune + TimescaleDB + Kafka) 
+    - [BuzzyBee](https://github.com/zachncurry/BuzzyBee/tree/main) a Multi-Node Honeypot Orchestrator & Sigma Rule Generator/ Mini-SIEM (Security Information and Event Management) Ingestion Pipeline
+    - [CyberConnected](https://github.com/zachncurry/CyberConnected) A Cybersecurity Connector Suite (APIs) built with Python, Go, Kafka, and GraphQL with a Polygolt Persistence Model (Relational & Telemetry DB) using a cloud native infrastructure (Neptune + TimescaleDB + Kafka) 
 
 ## Certifications
 <div>
