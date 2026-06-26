@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on ...
     - Mini-SIEM (Security Information and Event Management) Ingestion Pipeline OR
-    - Building out a Cybersecurity Connector Suite using either Kafka or GraphQL TBD
+    - Building out a Cybersecurity Connector Suite built with Python, Go, Kafka, and GraphQL TBD
 - 🌱 I’m currently learning ... [Cisco DevNet Associate](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/automation/ccna-automation/index.html)
 - 👯 I’m looking to collaborate on ... Cybersercurity Concepts & Cryptography Methods
 - 🤔 I’m looking for help with ... Collaboration opportunities
