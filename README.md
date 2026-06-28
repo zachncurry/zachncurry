@@ -23,7 +23,7 @@
 <a href = "https://github.com/zachncurry/CCNA-Lessons-Learned">
   <img src = "https://images.credly.com/size/340x340/images/683783d8-eaac-4c37-a14d-11bd8a36321d/ccna_600.png" style ="width: 100px; height: 100px; background-color: white" />
 </a>
-<a href = "https://www.credly.com/badges/63d60125-b862-4763-a85e-a6fe0d4ba37c">
+<a href = "https://github.com/zachncurry/CCNA-CyberOps-Lessons-Learned">
   <img src = "https://images.credly.com/size/340x340/images/99c33c3f-ab7e-46dc-9490-01837434c649/blob" style ="width: 100px; height: 100px; background-color: white" />
 </a>
 <a href = "https://www.credly.com/badges/b35da5f0-9e83-478e-84a4-8a381aef40a5">
