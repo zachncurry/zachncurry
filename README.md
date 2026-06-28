@@ -40,3 +40,11 @@ As a technical leader with a proven track record of delivering enterprise applic
 My current courses include the Cisco DevNet Associate (CCNA Auto) Certification and as I study I will also be building projects for my GitHub as of July 2026.
 
 With a proven track record as a Program Manager, I am looking to transition my expertise into the Cybersecurity Managed Services sector. MSPs represent the highest growth potential in the industry, and I am specifically drawn to organizations actively innovating through novel cryptography and cutting-edge security products. I am looking for a role where I can apply my execution framework to help scale and secure these emerging technical solutions.
+
+## My Current Vibe
+<div data-importer="music" align="center">
+  <a href="https://open.spotify.com/user/curryzach.zc">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=curryzach.zc&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
