@@ -15,9 +15,10 @@
     - [CyberConnected](https://github.com/zachncurry/CyberConnected) a Cybersecurity Connector Suite (APIs) built with Python, Go, Kafka, and GraphQL with a Polygolt Persistence Model (Relational & Telemetry DB) using a cloud native infrastructure (Neptune + TimescaleDB + Kafka) 
 
 ## Certifications
+
 <div>
 <a href = "https://www.credly.com/badges/c0a7001e-e924-482c-a0ff-4c3790c7b81b"> 
-    <img src = "https://images.credly.com/size/340x340/images/731e7ef4-9b0c-4d7b-ab65-23cc699c0aa3/blob" style ="width: 100px; height: 100px; background-color: white" /> 
+  <img src = "https://images.credly.com/size/340x340/images/731e7ef4-9b0c-4d7b-ab65-23cc699c0aa3/blob" style ="width: 100px; height: 100px; background-color: white" /> 
 </a>
 <a href = "https://github.com/zachncurry/CCNA-Lessons-Learned">
   <img src = "https://images.credly.com/size/340x340/images/683783d8-eaac-4c37-a14d-11bd8a36321d/ccna_600.png" style ="width: 100px; height: 100px; background-color: white" />
@@ -32,6 +33,7 @@
   <img src = "https://images.credly.com/size/340x340/images/1d36cb36-20fc-4961-8d70-6307c015d1aa/blob" style ="width: 100px; height: 100px; background-color: white" />
 </a>
 </div>
+
 
 ## My Personal Development Strategy
 
