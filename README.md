@@ -10,7 +10,7 @@
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/zachary-curry-pmp/)
 - 😄 Pronouns: ... He, Him
 - ⚡ Fun fact: ... I have worked on Cruise Ships, I love coffee ☕, and bench 205+ lbs
-- 🦸 Favorite Character: Toss up between Yogi Bear or The Orange Ninja Turtle
+- 🦸 Favorite Character: Toss up between Yogi Bear _Hey Boo Boo!_ or The Orange Ninja Turtle
 - 🔭 I’m thinking about working on ...
     - [BuzzyBee](https://github.com/zachncurry/BuzzyBee/tree/main) a Multi-Node Honeypot Orchestrator & Sigma Rule Generator/ Mini-SIEM (Security Information and Event Management) Ingestion Pipeline
     - [CyberConnected](https://github.com/zachncurry/CyberConnected) a Cybersecurity Connector Suite (APIs) built with Python, Go, Kafka, and GraphQL with a Polygolt Persistence Model (Relational & Telemetry DB) using a cloud native infrastructure (Neptune + TimescaleDB + Kafka) 
