@@ -44,17 +44,41 @@ My mission is to develop my personal, hands-on capabilities working to be a coll
 
 As a technical leader with a proven track record of delivering enterprise applications for Fortune 500 banks while working within a startup environment (FinTech SaaS), my focus is bridging high-level architecture with hands-on technical execution. Driven by this 'Player-Coach' philosophy, I am currently scaling my expertise into network engineering and security. In today's AI-driven landscape, the widespread availability of boilerplate code and sophisticated automation tools significantly expands the corporate attack surface. As AI simultaneously upskills threat actors and hyperscale data centers accelerate physical infrastructure growth, the demand for secure, resilient network environments has never been higher. I position myself at this critical intersection: aligning enterprise security strategy with robust, hands-on implementation to defend complex modern infrastructures.
 
-**Fall 2026/ Current Goals**
-- Python for IT Automation: To strengthen my Python and programming skills
-- Cisco DevNet: To get hands on experience automating infrastructure codifying my knowledge from an industry leader
-- Google Cybersecurity Certification: To learn what Google has outlined as important within Cybersecurity and get a discount to take the CompTIA Security+  
-- CompTIA Security+: This is a standard requirement within the Cybersecurity World and DoD which will also reinforce my knowledge layering new perspectives
-- Enterprise Network Implementation Project (GitHub): To reinforce/demonstrate my hands on capabilities
+### Fall 2026/ Current Goals
+**Primary Strategic Goal:** Establish a robust foundation in programmable infrastructure, advanced scripting, and baseline security frameworks to bridge the gap between traditional networking and modern DevOps/SecOps workflows.
 
-**Spring 2027 Goals**
-- CompTIA Cloud+: To bridge the hands on gap between network infrastructure and cloud infrastructure 
-- CompTIA CySA+: To reinforce my Security+, CCNA CyberOps, and hands on Cybersecurity analysis capabilities in addition to preparing for the CCSP (Certified Cloud Security Professional)
-- CCSP: To strengthen my knowledge of Cybersecurity Management reinforcing my previous hands on experience and labs
-- Potentially BuzzyBee as a GitHub project (TBD)
+**Plan of Action**
+**Step 1:** Python for IT Automation (Core Skill Integration)</br>
+Focus: Build deep, foundational programming and scripting capabilities tailored for system administration and network automation.
+
+**Step 2:** Cisco DevNet Associate (Infrastructure as Code)</br>
+Focus: Translate Python skills into practical application by automating network infrastructure, codifying configurations, and mastering API interactions using industry-standard Cisco methodologies.
+
+**Step 3:** Google Cybersecurity Certification (Framework & Cost Optimization)</br>
+Focus: Align with modern, industry-vetted cybersecurity fundamentals while strategically securing the voucher discount for subsequent DoD-compliant validation.
+
+**Step 4:** CompTIA Security+ (Industry & DoD Validation)</br>
+Focus: Secure the baseline standard required for enterprise and defense-sector cybersecurity roles, reinforcing theoretical knowledge through a structured, compliance-driven lens.
+
+**Step 5:** Enterprise Network Implementation Project (GitHub Portfolio)</br>
+Focus: Synthesize the semester's learning into a tangible, public-facing repository, demonstrating hands-on execution of secure, automated network deployments.
+
+### Spring 2027 Goals
+**Primary Strategic Goal:** Elevate engineering capabilities from localized infrastructure to scalable cloud architectures, while maturing security skills from foundational concepts to advanced, proactive threat analysis and risk management.
+
+**Plan of Action**
+**Step 1:** CompTIA Cloud+ (Hybrid Infrastructure Integration)</br>
+Focus: Bridge the operational gap between physical/virtual network infrastructure and enterprise cloud environments, mastering hybrid deployment models.
+
+**Step 2:** CompTIA CySA+ (Tactical Security Operations)</br>
+Focus: Advance defensive capabilities through behavioral analytics, continuous monitoring, and incident response, while reinforcing existing CCNA CyberOps and Security+ knowledge.
+
+**Step 3:** ISC² CCSP – Certified Cloud Security Professional (Strategic Governance)</br>
+Focus: Solidify cloud security management, architecture, and governance capabilities, combining previous hands-on lab experience with high-level risk management frameworks.
+
+**Step 4:** Tentative – Project "BuzzyBee" (GitHub Portfolio)</br>
+Focus: To validate cloud-native security orchestration or advanced automation concepts explored throughout the semester.
+
+
 
 “The time to repair the roof is when the sun is shining.” – John F. Kennedy
