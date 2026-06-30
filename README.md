@@ -57,3 +57,4 @@ As a technical leader with a proven track record of delivering enterprise applic
 - CCSP: To strengthen my knowledge of Cybersecurity Management reinforcing my previous hands on experience and labs
 - Potentially BuzzyBee as a GitHub project (TBD)
 
+“The time to repair the roof is when the sun is shining.” – John F. Kennedy
