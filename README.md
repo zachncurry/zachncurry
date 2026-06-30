@@ -40,10 +40,20 @@
 
 
 ## My Personal Development Strategy
+My mission is to develop my personal, hands-on capabilities working to be a collaborative, supportive, team member within the technology industry bridging enterprise, startup, and banking experience.
 
-As a technical leader with a proven track record of delivering enterprise applications for Fortune 500 banks, my focus is bridging high-level architecture with hands-on technical execution. Driven by this 'Player-Coach' philosophy, I am currently scaling my expertise into network engineering and security. In today's AI-driven landscape, the widespread availability of boilerplate code and sophisticated automation tools significantly expands the corporate attack surface. As AI simultaneously upskills threat actors and hyperscale data centers accelerate physical infrastructure growth, the demand for secure, resilient network environments has never been higher. I position myself at this critical intersection: aligning enterprise security strategy with robust, hands-on implementation to defend complex modern infrastructures.
+As a technical leader with a proven track record of delivering enterprise applications for Fortune 500 banks while working within a startup environment (FinTech SaaS), my focus is bridging high-level architecture with hands-on technical execution. Driven by this 'Player-Coach' philosophy, I am currently scaling my expertise into network engineering and security. In today's AI-driven landscape, the widespread availability of boilerplate code and sophisticated automation tools significantly expands the corporate attack surface. As AI simultaneously upskills threat actors and hyperscale data centers accelerate physical infrastructure growth, the demand for secure, resilient network environments has never been higher. I position myself at this critical intersection: aligning enterprise security strategy with robust, hands-on implementation to defend complex modern infrastructures.
 
-My current courses include the Cisco DevNet Associate (CCNA Auto) Certification and as I study I will also be building projects for my GitHub as of July 2026.
+**Fall 2026/ Current Goals**
+- Python for IT Automation: To strengthen my Python and programming skills
+- Cisco DevNet: To get hands on experience automating infrastructure codifying my knowledge from an industry leader
+- Google Cybersecurity Certification: To learn what Google has outlined as important within Cybersecurity and get a discount to take the CompTIA Security+  
+- CompTIA Security+: This is a standard requirement within the Cybersecurity World and DoD which will also reinforce my knowledge layering new perspectives
+- Enterprise Network Implementation Project (GitHub): To reinforce/demonstrate my hands on capabilities
 
-With a proven track record as a Program Manager, I am looking to transition my expertise into the Cybersecurity Managed Services sector. MSPs represent the highest growth potential in the industry, and I am specifically drawn to organizations actively innovating through novel cryptography and cutting-edge security products. I am looking for a role where I can apply my execution framework to help scale and secure these emerging technical solutions.
+**Spring 2027 Goals**
+- CompTIA Cloud+: To bridge the hands on gap between network infrastructure and cloud infrastructure 
+- CompTIA CySA+: To reinforce my Security+, CCNA CyberOps, and hands on Cybersecurity analysis capabilities in addition to preparing for the CCSP (Certified Cloud Security Professional)
+- CCSP: To strengthen my knowledge of Cybersecurity Management reinforcing my previous hands on experience and labs
+- Potentially BuzzyBee as a GitHub project (TBD)
 
