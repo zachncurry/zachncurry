@@ -48,36 +48,29 @@ As a technical leader with a proven track record of delivering enterprise applic
 **Primary Strategic Goal:** Establish a robust foundation in programmable infrastructure, advanced scripting, and baseline security frameworks to bridge the gap between traditional networking and modern DevOps/SecOps workflows.
 
 **Plan of Action**
-**Step 1:** **Python for IT Automation** _Core Skill Integration_</br>
-Focus: Build deep, foundational programming and scripting capabilities tailored for system administration and network automation.
-
-**Step 2:** **Cisco DevNet Associate** _Infrastructure as Code_</br>
-Focus: Translate Python skills into practical application by automating network infrastructure, codifying configurations, and mastering API interactions using industry-standard Cisco methodologies.
-
-**Step 3:** **Google Cybersecurity Certification** _Framework & Cost Optimization_</br>
-Focus: Align with modern, industry-vetted cybersecurity fundamentals while strategically securing the voucher discount for subsequent DoD-compliant validation.
-
-**Step 4:** **CompTIA Security+** _Industry & DoD Validation_</br>
-Focus: Secure the baseline standard required for enterprise and defense-sector cybersecurity roles, reinforcing theoretical knowledge through a structured, compliance-driven lens.
-
-**Step 5:** **Enterprise Network Implementation Project** _GitHub Portfolio_</br>
-Focus: Synthesize the semester's learning into a tangible, public-facing repository, demonstrating hands-on execution of secure, automated network deployments.
+- **Python for IT Automation** _Core Skill Integration_</br>
+    - Focus: Build deep, foundational programming and scripting capabilities tailored for system administration and network automation.
+- **Cisco DevNet Associate** _Infrastructure as Code_</br>
+    - Focus: Translate Python skills into practical application by automating network infrastructure, codifying configurations, and mastering API interactions using industry-standard Cisco methodologies.
+- **Google Cybersecurity Certification** _Framework & Cost Optimization_</br>
+    - Focus: Align with modern, industry-vetted cybersecurity fundamentals while strategically securing the voucher discount for subsequent DoD-compliant validation.
+- **CompTIA Security+** _Industry & DoD Validation_</br>
+    - Focus: Secure the baseline standard required for enterprise and defense-sector cybersecurity roles, reinforcing theoretical knowledge through a structured, compliance-driven lens.
+- **Enterprise Network Implementation Project** _GitHub Portfolio_</br>
+    - Focus: Synthesize the semester's learning into a tangible, public-facing repository, demonstrating hands-on execution of secure, automated network deployments.
 
 ### Spring 2027 Goals
 **Primary Strategic Goal:** Elevate engineering capabilities from localized infrastructure to scalable cloud architectures, while maturing security skills from foundational concepts to advanced, proactive threat analysis and risk management.
 
 **Plan of Action**
-**Step 1:** **CompTIA Cloud+** _Hybrid Infrastructure Integration_</br>
-Focus: Bridge the operational gap between physical/virtual network infrastructure and enterprise cloud environments, mastering hybrid deployment models.
-
-**Step 2:** **CompTIA CySA+** _Tactical Security Operations_</br>
-Focus: Advance defensive capabilities through behavioral analytics, continuous monitoring, and incident response, while reinforcing existing CCNA CyberOps and Security+ knowledge.
-
-**Step 3:** **ISC² CCSP Certified Cloud Security Professional** _Strategic Governance_</br>
-Focus: Solidify cloud security management, architecture, and governance capabilities, combining previous hands-on lab experience with high-level risk management frameworks.
-
-**Step 4:** _Tentative_ **Project "BuzzyBee"** _GitHub Portfolio_</br>
-Focus: To validate cloud-native security orchestration or advanced automation concepts explored throughout the semester.
+- **CompTIA Cloud+** _Hybrid Infrastructure Integration_</br>
+    - Focus: Bridge the operational gap between physical/virtual network infrastructure and enterprise cloud environments, mastering hybrid deployment models.
+- **CompTIA CySA+** _Tactical Security Operations_</br>
+    - Focus: Advance defensive capabilities through behavioral analytics, continuous monitoring, and incident response, while reinforcing existing CCNA CyberOps and Security+ knowledge.
+- **ISC² CCSP Certified Cloud Security Professional** _Strategic Governance_</br>
+    - Focus: Solidify cloud security management, architecture, and governance capabilities, combining previous hands-on lab experience with high-level risk management frameworks.
+-  _Tentative_ **Project "BuzzyBee"** _GitHub Portfolio_</br>
+    - Focus: To validate cloud-native security orchestration or advanced automation concepts explored throughout the semester.
 
 
 
