@@ -65,7 +65,7 @@ However, with the onset of Large Language Models and an ever maturing SaaS indus
 - **Google Cybersecurity Certification** _Framework & Cost Optimization_</br>
     - Focus: Align with modern, industry-vetted cybersecurity fundamentals while strategically securing the voucher discount for subsequent DoD-compliant validation.
 - **CompTIA Security+** _Industry & DoD Validation_</br>
-    - Focus: Secure the baseline standard required for enterprise and defense-sector cybersecurity roles, reinforcing theoretical knowledge through a structured, compliance-driven lens.
+    - Focus: Secure the baseline standard required for enterprise and defense-sector cybersecurity roles, reinforcing theoretical knowledge through a structured, compliance-driven lens not to mention security clearance.
 - **Enterprise Network Implementation Project** _GitHub Portfolio_</br>
     - Focus: Synthesize the semester's learning into a tangible, public-facing repository, demonstrating hands-on execution of secure, automated network deployments.
 
