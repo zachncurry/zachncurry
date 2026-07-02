@@ -42,7 +42,7 @@
 ## My Personal Development Strategy
 My mission is to develop my personal, hands-on capabilities working to be a collaborative, supportive, team member within the technology industry bridging enterprise, startup, and banking experience. 
 
-**Skills Gap Analysis**
+**Skills Gap Analysis:**</br>
 My background has historically been in software development and client implementation, leveraging a skillset built on computer science (Harvard CS50, WGU, IU) and project management (Cornell University, WGU, IU, PMP).
 
 However, with the onset of Large Language Models and an ever maturing SaaS industry, net new software development is becoming less common. Instead, we are seeing the massive growth of Data Centers, AI Architecture Orchestration, and Cybersecurity. In this shifting landscape, network engineering (the backbone of every data center and the connective tissue for SaaS implementation) and cybersecurity are becoming increasingly critical as organizations work to operationalize and monetize their data by layering in AI/ML. To build upon my foundation in systems design thinking and software development, I wanted to proactively re-align my skillset with this future.
