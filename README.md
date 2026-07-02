@@ -49,7 +49,7 @@ However, with the onset of Large Language Models and an ever maturing SaaS indus
 
 ### Background
 - Chicago, Illinois Sr. Program Manager having 4 years experience laid off January 2025
-- Summer of 2025 relocated back to Tampa, Florida
+- Summer of 2025 relocated back to Tampa, Florida (I grew up in the Sunshine State!🦩)
 - July of 2025 started the BSc Network Engineering & Security degree at WGU because they are one of the few schools providing such specialized training.
     - Why another Bachelors? For me, success has always hinged on collaboration and the ability to speak the same language (terms, concepts, technologies). This degree provides the technical foundation I need to proactively mitigate risks and effectively navigate multi-disciplinary engineering initiatives while opening new professional opportunities to gain new experience.
 
