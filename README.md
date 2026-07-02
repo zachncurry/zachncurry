@@ -47,6 +47,12 @@ My background has historically been in software development and client implement
 
 However, with the onset of Large Language Models and an ever maturing SaaS industry, net new software development is becoming less common. Instead, we are seeing the massive growth of Data Centers, AI Architecture Orchestration (IaaS), and Cybersecurity. In this shifting landscape, network engineering (the backbone of every data center and the connective tissue for SaaS implementation) and cybersecurity are becoming increasingly critical as organizations work to operationalize and monetize their data by layering in AI/ML. To build upon my foundation in systems design thinking and software development, I wanted to proactively re-align my skillset with this future.
 
+### Previously Development
+- Chicago, Illinois Sr. Program Manager laid off January 2025
+- Summer of 2025 relocated back to Tampa, Florida
+- July of 2025 started the BSc Network Engineering & Security degree at WGU because they are one of the few schools providing such specialized training.
+    - Why another Bachelors? For me, success has always hinged on collaboration and the ability to speak the same language (terms, concepts, technologies). This degree provides the technical foundation I need to proactively mitigate risks and effectively navigate multi-disciplinary engineering initiatives while opening new professional opportunities to gain new experience.
+
 ### Fall 2026/ Current Goals
 **Goal:** Establish a robust foundation in programmable infrastructure, advanced scripting, and baseline security frameworks to bridge the gap between traditional networking and modern DevOps/SecOps workflows.
 
