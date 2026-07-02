@@ -42,8 +42,6 @@
 ## My Personal Development Strategy
 My mission is to develop my personal, hands-on capabilities working to be a collaborative, supportive, team member within the technology industry bridging enterprise, startup, and banking experience.
 
-As a technical leader with a proven track record of delivering enterprise applications for Fortune 500 banks while working within a startup environment (FinTech SaaS), my focus is bridging high-level architecture with hands-on technical execution. Driven by this 'Player-Coach' philosophy, I am currently scaling my expertise into network engineering and security. In today's AI-driven landscape, the widespread availability of boilerplate code and sophisticated automation tools significantly expands the corporate attack surface. As AI simultaneously upskills threat actors and hyperscale data centers accelerate physical infrastructure growth, the demand for secure, resilient network environments has never been higher. I position myself at this critical intersection: aligning enterprise security strategy with robust, hands-on implementation to defend complex modern infrastructures.
-
 ### Fall 2026/ Current Goals
 **Primary Strategic Goal:** Establish a robust foundation in programmable infrastructure, advanced scripting, and baseline security frameworks to bridge the gap between traditional networking and modern DevOps/SecOps workflows.
 
