@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-### I'm Zach, a [Network and Security Engineer](https://www.cyberseek.org/heatmap.html) based in Tampa, Florida.
+## I'm Zach, a [Network and Security Engineer](https://www.cyberseek.org/heatmap.html) based in Tampa, Florida.
 
 - 🌱 I’m currently learning ... [Cisco DevNet Associate](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/automation/ccna-automation/index.html)
 - 👯 I’m looking to collaborate on ... Cybersercurity Concepts & Cryptography Methods
@@ -14,11 +14,14 @@
 - 😄 Pronouns: ... He, Him
 - ⚡ Fun fact: ... I have worked on Cruise Ships, I love coffee ☕, and bench 205+ lbs
 - 🦸 Favorite Character: Toss up between Yogi Bear _Hey Boo Boo!_ or The Orange Ninja Turtle
-<p align = "center">
-<img src = "https://github.com/zachncurry/zachncurry/blob/main/Boo%20Boo%20and%20Master%20Splinter%20at%20Jellystone%20Cafe.png" style= "width: 400px" />
-</p>
 
-## Certifications
+</details>
+
+
+
+<details>
+<summary><H2>Certifications</H2></summary>
+
 
 <div>
 <a href = "https://www.credly.com/badges/c0a7001e-e924-482c-a0ff-4c3790c7b81b"> 
@@ -38,8 +41,12 @@
 </a>
 </div>
 
+</details>
 
-## My Personal Development Strategy
+<details>
+
+<summary><H2>My Personal Development Strategy</H2></summary>
+
 My mission is to develop my personal, hands-on capabilities working to be a collaborative, supportive, team member within the technology industry bridging enterprise, startup, and banking experience. 
 
 **Skills Gap Analysis:**</br>
@@ -80,6 +87,13 @@ However, with the onset of Large Language Models and an ever maturing SaaS indus
     - Focus: Solidify cloud security management, architecture, and governance capabilities, combining previous hands-on lab experience with high-level risk management frameworks.
 -  _Tentative_ **Project "BuzzyBee"** _GitHub Portfolio_</br>
     - Focus: To validate cloud-native security orchestration or advanced automation concepts explored throughout the semester.
+
+</details>
+
+
+
+
+
 
 
 
