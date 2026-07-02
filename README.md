@@ -15,13 +15,8 @@
 - ⚡ Fun fact: ... I have worked on Cruise Ships, I love coffee ☕, and bench 205+ lbs
 - 🦸 Favorite Character: Toss up between Yogi Bear _Hey Boo Boo!_ or The Orange Ninja Turtle
 
-</details>
 
-
-
-<details>
-<summary><H2>Certifications</H2></summary>
-
+## Certifications
 
 <div>
 <a href = "https://www.credly.com/badges/c0a7001e-e924-482c-a0ff-4c3790c7b81b"> 
@@ -41,7 +36,6 @@
 </a>
 </div>
 
-</details>
 
 <details>
 
