@@ -40,10 +40,10 @@
 
 
 ## My Personal Development Strategy
-My mission is to develop my personal, hands-on capabilities working to be a collaborative, supportive, team member within the technology industry bridging enterprise, startup, and banking experience.
+My mission is to develop my personal, hands-on capabilities working to be a collaborative, supportive, team member within the technology industry bridging enterprise, startup, and banking experience. 
 
 ### Fall 2026/ Current Goals
-**Primary Strategic Goal:** Establish a robust foundation in programmable infrastructure, advanced scripting, and baseline security frameworks to bridge the gap between traditional networking and modern DevOps/SecOps workflows.
+**Goal:** Establish a robust foundation in programmable infrastructure, advanced scripting, and baseline security frameworks to bridge the gap between traditional networking and modern DevOps/SecOps workflows.
 
 **Plan of Action**
 - **Python for IT Automation** _Core Skill Integration_</br>
@@ -58,7 +58,7 @@ My mission is to develop my personal, hands-on capabilities working to be a coll
     - Focus: Synthesize the semester's learning into a tangible, public-facing repository, demonstrating hands-on execution of secure, automated network deployments.
 
 ### Spring 2027 Goals
-**Primary Strategic Goal:** Elevate engineering capabilities from localized infrastructure to scalable cloud architectures, while maturing security skills from foundational concepts to advanced, proactive threat analysis and risk management.
+**Goal:** Elevate engineering capabilities from localized infrastructure to scalable cloud architectures, while maturing security skills from foundational concepts to advanced, proactive threat analysis and risk management.
 
 **Plan of Action**
 - **CompTIA Cloud+** _Hybrid Infrastructure Integration_</br>
