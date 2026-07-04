@@ -79,6 +79,8 @@ However, with the onset of Large Language Models and an ever maturing SaaS indus
     - Focus: Advance defensive capabilities through behavioral analytics, continuous monitoring, and incident response, while reinforcing existing CCNA CyberOps and Security+ knowledge.
 - **ISC² CCSP Certified Cloud Security Professional** _Strategic Governance_</br>
     - Focus: Solidify cloud security management, architecture, and governance capabilities, combining previous hands-on lab experience with high-level risk management frameworks.
+-  _Tentative_ **IBM Cybersecurity Capstone Project"** _GitHub Portfolio_</br>
+    - Focus: Validated hands-on technical execution of the incident response lifecycle, leveraging modern security tools to detect, contain, and remediate simulated enterprise threats.
 -  _Tentative_ **Project "BuzzyBee"** _GitHub Portfolio_</br>
     - Focus: To validate cloud-native security orchestration or advanced automation concepts explored throughout the semester.
 
