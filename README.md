@@ -46,7 +46,7 @@ My mission is to develop my personal, hands-on capabilities working to be a coll
 **Skills Gap Analysis:**</br>
 My background has historically been in software development and client implementation, leveraging a skillset built on computer science (Harvard CS50, WGU, IU) and project management (Cornell University, WGU, IU, PMP).
 
-However, with the onset of Large Language Models and an ever maturing SaaS industry, net new software development is becoming less common. Instead, we are seeing the massive growth of Data Centers, AI Architecture Orchestration (IaaS), and Cybersecurity. In this shifting landscape, network engineering (the backbone of every data center and the connective tissue for SaaS implementation) and cybersecurity are becoming increasingly critical as organizations work to operationalize and monetize their data by layering in AI/ML. To build upon my foundation in systems design thinking and software development, I wanted to proactively re-align my skillset with this future.
+Currently, with the onset of Large Language Models and an ever maturing SaaS industry, net new software development is becoming less common. Instead, we are seeing the massive growth of Data Centers, AI Architecture Orchestration (IaaS), and Cybersecurity. In this shifting landscape, network engineering (the backbone of every data center and the connective tissue for SaaS implementation) and cybersecurity are becoming increasingly critical as organizations work to operationalize and monetize their data by layering in AI/ML. To build upon my foundation in systems design thinking and software development, I wanted to proactively re-align my skillset with this future.
 
 ### Background
 - Chicago, Illinois Sr. Program Manager having 4 years experience laid off January 2025
@@ -58,7 +58,7 @@ However, with the onset of Large Language Models and an ever maturing SaaS indus
 **Goal:** Establish a robust foundation in programmable infrastructure, advanced scripting, and baseline security frameworks to bridge the gap between traditional networking and modern DevOps/SecOps workflows.
 
 **Plan of Action**
-- **Python for IT Automation** _Core Skill Integration_</br>
+- **Python for IT Automation** _GitHub Portfolio_</br>
     - Focus: Build deep, foundational programming and scripting capabilities tailored for system administration and network automation.
 - **Cisco DevNet Associate** _Infrastructure as Code_</br>
     - Focus: Translate Python skills into practical application by automating network infrastructure, codifying configurations, and mastering API interactions using industry-standard Cisco methodologies.
