@@ -69,6 +69,13 @@ Currently, with the onset of Large Language Models and an ever maturing SaaS ind
 - **Enterprise Network Implementation Project** _GitHub Portfolio_</br>
     - Focus: Synthesize the semester's learning into a tangible, public-facing repository, demonstrating hands-on execution of secure, automated network deployments.
 
+_A mentor once told me, plan with a map but follow the terrain._</br>
+**Excited to recast this plan to include Splunk and Texas A&M as of 7/10/2026!</br>
+Splunk has sponsored me providing the opportunity to pursue several certifications working to be a specialist!</br>
+ITDRC has enabled me to pursue additional education through Texas A&M and FEMA!**</br>
+
+
+
 ### Spring 2027 Goals
 **Goal:** Elevate engineering capabilities from localized infrastructure to scalable cloud architectures, while maturing security skills from foundational concepts to advanced, proactive threat analysis and risk management.
 
