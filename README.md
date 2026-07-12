@@ -2,7 +2,10 @@
 
 ### I'm Zach, a [Network and Security Engineer](https://www.cyberseek.org/heatmap.html) based in Tampa, Florida.
 
-- 🌱 I’m currently learning ... [Cisco DevNet Associate](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/automation/ccna-automation/index.html)
+- 🌱 I’m currently enrolled at ...
+    - [Western Governors University for a BSc Network Engineering & Security Cisco Track](https://www.wgu.edu/content/dam/wgu-65-assets/western-governors/documents/program-guides/information-technology/BSNES_C.pdf)
+    - [Texas A & M Engineering for a Technical Cybersecurity Certificate](https://teex.org/program/technical-cybersecurity/) _Paid for by DHS/FEMA through my volunteer work with the ITDRC_ 
+- 🌱 I’m currently learning ... [Cisco DevNet Associate](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/automation/ccna-automation/index.html) & [Network Assurance](https://teex.org/class/awr138/)
 - 👯 I’m looking to collaborate on ... Cybersercurity Concepts & Cryptography Methods
 - 🤔 I’m looking for help with ... Collaboration opportunities
 - 💬 Ask me about ... Program Management & Operations
