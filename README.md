@@ -61,6 +61,15 @@ Currently, with the onset of Large Language Models and an ever maturing SaaS ind
 **Goal:** Establish a robust foundation in programmable infrastructure, advanced scripting, and baseline security frameworks to bridge the gap between traditional networking and modern DevOps/SecOps workflows.
 
 **Plan of Action**
+- **[Texas A & M Engineering for a Technical Cybersecurity Certificate](https://teex.org/program/technical-cybersecurity/)** _Opens additional opportunity to volunteer with the ITDRC, Cybsersecurity Response Team_
+    - Paid for by DHS/FEMA through my volunteer work with the ITDRC
+    - Focus: Learn from the Department of Homeland Security their approach to
+        - Governmental Considerations & Laws for Cyber Ethics
+        - Cybersecurity in the Workplace
+        - Network Assurance
+        - Digital Forensics
+        - Information Security
+        - Secure Software      
 - **Python for IT Automation** _GitHub Portfolio_</br>
     - Focus: Build deep, foundational programming and scripting capabilities tailored for system administration and network automation.
 - **Cisco DevNet Associate** _Infrastructure as Code_</br>
@@ -89,10 +98,19 @@ ITDRC has enabled me to pursue additional education through Texas A&M and FEMA!*
     - Focus: Advance defensive capabilities through behavioral analytics, continuous monitoring, and incident response, while reinforcing existing CCNA CyberOps and Security+ knowledge.
 - **ISC² CCSP Certified Cloud Security Professional** _Strategic Governance_</br>
     - Focus: Solidify cloud security management, architecture, and governance capabilities, combining previous hands-on lab experience with high-level risk management frameworks.
+- **[Texas A & M Engineering for Cybersecurity Risk Management Certificate](https://teex.org/program/cybersecurity-risk-management/)** _Opens additional opportunity to volunteer with the ITDRC, Cybsersecurity Response Team_
+    - Paid for by DHS/FEMA through my volunteer work with the ITDRC
+    - Focus: Learn from the Department of Homeland Security their approach to
+        - Cyber Incident Management
+        - Disaster Recovery for Information Systems
+        - Information Risk Management
+        - Detecting and Responding to a Cyber Attack
 -  _Tentative_ **IBM Cybersecurity Capstone Project"** _GitHub Portfolio_</br>
     - Focus: Validated hands-on technical execution of the incident response lifecycle, leveraging modern security tools to detect, contain, and remediate simulated enterprise threats.
 -  _Tentative_ **Project "BuzzyBee"** _GitHub Portfolio_</br>
     - Focus: To validate cloud-native security orchestration or advanced automation concepts explored throughout the semester.
+
+
 
 </details>
 
