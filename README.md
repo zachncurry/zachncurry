@@ -70,7 +70,7 @@ Currently, with the onset of Large Language Models and an ever maturing SaaS ind
         - Digital Forensics
         - Information Security
         - Secure Software      
-- **Python for IT Automation** _GitHub Portfolio_</br>
+- **[Python for IT Automation](https://github.com/zachncurry/Python-for-IT-Automation/tree/main)** _GitHub Portfolio_</br>
     - Focus: Build deep, foundational programming and scripting capabilities tailored for system administration and network automation.
 - **Cisco DevNet Associate** _Infrastructure as Code_</br>
     - Focus: Translate Python skills into practical application by automating network infrastructure, codifying configurations, and mastering API interactions using industry-standard Cisco methodologies.
