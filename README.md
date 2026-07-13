@@ -61,7 +61,7 @@ Currently, with the onset of Large Language Models and an ever maturing SaaS ind
 **Goal:** Establish a robust foundation in programmable infrastructure, advanced scripting, and baseline security frameworks to bridge the gap between traditional networking and modern DevOps/SecOps workflows.
 
 **Plan of Action**
-- **[Texas A & M Engineering for Technical Cybersecurity Certification](https://teex.org/program/technical-cybersecurity/)** _Opens additional opportunity to volunteer with the ITDRC, Cybsersecurity Response Team_
+- **[Texas A & M Engineering for Technical Cybersecurity Certification](https://teex.org/program/technical-cybersecurity/)** _Opens opportunity to join the ITDRC, Cybsersecurity Response Team_
     - Paid for by DHS/FEMA through my volunteer work with the ITDRC
     - Focus: Learn the Department of Homeland Security's approach to
         - Governmental Considerations & Laws for Cyber Ethics
@@ -98,7 +98,7 @@ ITDRC has enabled me to pursue additional education through Texas A&M and FEMA!*
     - Focus: Advance defensive capabilities through behavioral analytics, continuous monitoring, and incident response, while reinforcing existing CCNA CyberOps and Security+ knowledge.
 - **ISC² CCSP Certified Cloud Security Professional** _Strategic Governance_</br>
     - Focus: Solidify cloud security management, architecture, and governance capabilities, combining previous hands-on lab experience with high-level risk management frameworks.
-- **[Texas A & M Engineering for Cybersecurity Risk Management Certification](https://teex.org/program/cybersecurity-risk-management/)** _Opens additional opportunity to volunteer with the ITDRC, Cybsersecurity Response Team_
+- **[Texas A & M Engineering for Cybersecurity Risk Management Certification](https://teex.org/program/cybersecurity-risk-management/)** _Opens opportunity to join the ITDRC, Cybsersecurity Response Team_
     - Paid for by DHS/FEMA through my volunteer work with the ITDRC
     - Focus: Learn the Department of Homeland Security's approach to
         - Cyber Incident Management
