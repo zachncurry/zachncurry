@@ -5,7 +5,7 @@
 - 📚 I’m currently enrolled at ...
     - [Western Governors University for a BSc Network Engineering & Security Cisco Track](https://www.wgu.edu/content/dam/wgu-65-assets/western-governors/documents/program-guides/information-technology/BSNES_C.pdf)
     - [Texas A & M Engineering for Technical Cybersecurity Certification](https://teex.org/program/technical-cybersecurity/) _Paid for by DHS/FEMA through my volunteer work with the ITDRC_ 
-- 🌱 I’m currently learning ... [Cisco DevNet Associate](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/automation/ccna-automation/index.html) & [Network Assurance](https://teex.org/class/awr138/)
+- 🌱 I’m currently learning ... [Cisco DevNet Associate](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/automation/ccna-automation/index.html) & [Digital Forensics](https://teex.org/class/awr139/)
 - 👯 I’m looking to collaborate on ... Cybersercurity Concepts & Cryptography Methods
 - 🤔 I’m looking for help with ... Collaboration opportunities
 - 💬 Ask me about ... Program Management & Operations
@@ -64,10 +64,10 @@ Currently, with the onset of Large Language Models and an ever maturing SaaS ind
 - **[Texas A & M Engineering for Technical Cybersecurity Certification](https://teex.org/program/technical-cybersecurity/)** _Opens opportunity to join the ITDRC, Cybsersecurity Response Team_
     - Paid for by DHS/FEMA through my volunteer work with the ITDRC
     - Focus: Learn the Department of Homeland Security's approach to
-        - Governmental Considerations & Laws for Cyber Ethics
-        - Cybersecurity in the Workplace
-        - Network Assurance
-        - Digital Forensics
+        - Governmental Considerations & Laws for Cyber Ethics: DONE
+        - Cybersecurity in the Workplace: DONE
+        - Network Assurance: DONE
+        - Digital Forensics: In Progress
         - Information Security
         - Secure Software      
 - **[Python for IT Automation](https://github.com/zachncurry/Python-for-IT-Automation/tree/main)** _GitHub Portfolio_</br>
