@@ -64,9 +64,12 @@ Currently, with the onset of Large Language Models and an ever maturing SaaS ind
 - **[Texas A & M Engineering for Technical Cybersecurity Certification](https://teex.org/program/technical-cybersecurity/)** _Opens opportunity to join the ITDRC, Cybsersecurity Response Team_
     - Paid for by DHS/FEMA through my volunteer work with the ITDRC
     - Focus: Learn the Department of Homeland Security's approach to
-        - Governmental Considerations & Laws for Cyber Ethics: DONE
-        - Cybersecurity in the Workplace: DONE
-        - Network Assurance: DONE
+        - Governmental Considerations & Laws for Cyber Ethics: Complete
+            - Was able to participate in learning then debating complex ethical and legal considerations pertaining to free access, free speech, and cyber crimes. 
+        - Cybersecurity in the Workplace: Complete
+            - Learned and applied cybersecurity best practices as outlined by DHS/FEMA 
+        - Network Assurance: Complete
+            - Developed in-depth layered defense strategies throughout the OSI model including automated patch management services in hybrid (cloud, private/public, and hardware) topologies 
         - Digital Forensics: In Progress
         - Information Security
         - Secure Software      
