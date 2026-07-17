@@ -70,7 +70,7 @@ Currently, with the onset of Large Language Models and an ever maturing SaaS ind
             - Learned and applied cybersecurity best practices as outlined by DHS/FEMA 
         - Network Assurance: Complete
             - Developed in-depth layered defense strategies throughout the OSI model including automated patch management services in hybrid (cloud, private/public, and hardware) topologies 
-        - Digital Forensics: Completed
+        - Digital Forensics: Complete
             - Understand and synthesize how to properly obtain, secure, analyze, and report digital assets as a forensics investigator and fundamentals of serving as an expert witness within the legal system including legal constraints, repsonsibilties, and considerations. 
         - Information Security: In Progress
         - Secure Software      
