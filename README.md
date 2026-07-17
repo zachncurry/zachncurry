@@ -5,7 +5,7 @@
 - 📚 I’m currently enrolled at ...
     - [Western Governors University for a BSc Network Engineering & Security Cisco Track](https://www.wgu.edu/content/dam/wgu-65-assets/western-governors/documents/program-guides/information-technology/BSNES_C.pdf)
     - [Texas A & M Engineering for Technical Cybersecurity Certification](https://teex.org/program/technical-cybersecurity/) _Paid for by DHS/FEMA through my volunteer work with the ITDRC_ 
-- 🌱 I’m currently learning ... [Cisco DevNet Associate](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/automation/ccna-automation/index.html) & [Digital Forensics](https://teex.org/class/awr139/)
+- 🌱 I’m currently learning ... [Cisco DevNet Associate](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/automation/ccna-automation/index.html) & [Information Security Basics](https://teex.org/class/awr173/)
 - 👯 I’m looking to collaborate on ... Cybersercurity Concepts & Cryptography Methods
 - 🤔 I’m looking for help with ... Collaboration opportunities
 - 💬 Ask me about ... Program Management & Operations
@@ -70,8 +70,9 @@ Currently, with the onset of Large Language Models and an ever maturing SaaS ind
             - Learned and applied cybersecurity best practices as outlined by DHS/FEMA 
         - Network Assurance: Complete
             - Developed in-depth layered defense strategies throughout the OSI model including automated patch management services in hybrid (cloud, private/public, and hardware) topologies 
-        - Digital Forensics: In Progress
-        - Information Security
+        - Digital Forensics: Completed
+            - Understand and synthesize how to properly obtain, secure, analyze, and report digital assets as a forensics investigator and fundamentals of serving as an expert witness within the legal system including legal constraints, repsonsibilties, and considerations. 
+        - Information Security: In Progress
         - Secure Software      
 - **[Python for IT Automation](https://github.com/zachncurry/Python-for-IT-Automation/tree/main)** _GitHub Portfolio_</br>
     - Focus: Build deep, foundational programming and scripting capabilities tailored for system administration and network automation.
