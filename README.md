@@ -7,7 +7,7 @@
     - [Texas A & M Engineering for Technical Cybersecurity Certification](https://teex.org/program/technical-cybersecurity/) _Paid for by DHS/FEMA through my volunteer work with the ITDRC_ 
 - 🌱 I’m currently learning ... [Cisco DevNet Associate](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/automation/ccna-automation/index.html) & [Information Security Basics](https://teex.org/class/awr173/)
 - 👯 I’m looking to collaborate on ... Cybersercurity Concepts & Cryptography Methods
-- 🤔 I’m looking for help with ... Collaboration opportunities
+- 🤔 I’m looking for help with ... Cybersecurity Internships/ Employment Opportunities
 - 💬 Ask me about ... Program Management & Operations
 - 🦺 Volunteering Includes: [Information Technology Disaster Resource Center (ITDRC)](https://www.itdrc.org/) & [PMI Tampa Bay Chapter](https://pmitb.org/)
 - 🔭 I’m thinking about working on ...
