@@ -82,8 +82,9 @@ Currently, with the onset of Large Language Models and an ever maturing SaaS ind
             - Developed in-depth layered defense strategies throughout the OSI model including automated patch management services in hybrid (cloud, private/public, and hardware) topologies 
         - Digital Forensics: Complete
             - Understand and synthesize how to properly obtain, secure, analyze, and report digital assets as a forensics investigator and fundamentals of serving as an expert witness within the legal system including legal constraints, repsonsibilties, and considerations. 
-        - Information Security: In Progress
-        - Secure Software      
+        - Information Security: Complete
+            - This course covered fundamental host-to-network concepts, serving as a valuable refresher on topics previously mastered through my CCNA, CCNA Cybersecurity certifications, and cryptography coursework. 
+        - Secure Software: In Progress _Anticipated 7/21/2026_
 - **[Python for IT Automation](https://github.com/zachncurry/Python-for-IT-Automation/tree/main)** _GitHub Portfolio_</br>
     - Focus: Build deep, foundational programming and scripting capabilities tailored for system administration and network automation.
 - **Cisco DevNet Associate** _Infrastructure as Code_</br>
