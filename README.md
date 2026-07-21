@@ -102,8 +102,6 @@ ITDRC has enabled me to pursue additional education through Texas A&M and FEMA!*
     - Focus: Bridge the operational gap between physical/virtual network infrastructure and enterprise cloud environments, mastering hybrid deployment models.
 - **CompTIA CySA+** _Tactical Security Operations_</br>
     - Focus: Advance defensive capabilities through behavioral analytics, continuous monitoring, and incident response, while reinforcing existing CCNA CyberOps and Security+ knowledge.
-- **ISC² CCSP Certified Cloud Security Professional** _Strategic Governance_</br>
-    - Focus: Solidify cloud security management, architecture, and governance capabilities, combining previous hands-on lab experience with high-level risk management frameworks.
 - **[Texas A & M Engineering for Cybersecurity Risk Management Certification](https://teex.org/program/cybersecurity-risk-management/)** _Opens opportunity to join the ITDRC, Cybsersecurity Response Team_
     - Paid for by DHS/FEMA through my volunteer work with the ITDRC
     - Focus: Learn the Department of Homeland Security's approach to
