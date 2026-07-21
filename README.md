@@ -4,8 +4,7 @@
 
 - 📚 I’m currently enrolled at ...
     - [Western Governors University for a BSc Network Engineering & Security Cisco Track](https://www.wgu.edu/content/dam/wgu-65-assets/western-governors/documents/program-guides/information-technology/BSNES_C.pdf)
-    - [Texas A & M Engineering for Technical Cybersecurity Certification](https://teex.org/program/technical-cybersecurity/) _Paid for by DHS/FEMA through my volunteer work with the ITDRC_ 
-- 🌱 I’m currently learning ... [Cisco DevNet Associate](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/automation/ccna-automation/index.html) & [Information Security Basics](https://teex.org/class/awr173/)
+- 🌱 I’m currently learning ... [Cisco DevNet Associate](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/automation/ccna-automation/index.html)
 - 👯 I’m looking to collaborate on ... Cybersercurity Concepts & Cryptography Methods
 - 🤔 I’m looking for help with ... Cybersecurity Internships/ Employment Opportunities
 - 💬 Ask me about ... Program Management & Operations
