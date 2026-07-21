@@ -83,7 +83,7 @@ Currently, with the onset of Large Language Models and an ever maturing SaaS ind
         - [Digital Forensics](https://teex.org/class/awr139/): Complete
             - Understand and synthesize how to properly obtain, secure, analyze, and report digital assets as a forensics investigator and fundamentals of serving as an expert witness within the legal system including legal constraints, repsonsibilties, and considerations. 
         - [Information Security](https://teex.org/class/awr173/): Complete
-            - This course covered fundamental host-to-network concepts, serving as a valuable refresher on topics previously mastered through my CCNA, CCNA Cybersecurity certifications, and cryptography coursework. 
+            - This course covered fundamental host-to-network concepts, serving as a valuable refresher on topics previously codified through my CCNA, CCNA Cybersecurity certifications, and cryptography coursework. 
         - [Secure Software](https://teex.org/class/awr178/): In Progress _Anticipated 7/21/2026_
 - **[Python for IT Automation](https://github.com/zachncurry/Python-for-IT-Automation/tree/main)** _GitHub Portfolio_</br>
     - Focus: Build deep, foundational programming and scripting capabilities tailored for system administration and network automation.
