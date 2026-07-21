@@ -77,6 +77,9 @@ Currently, with the onset of Large Language Models and an ever maturing SaaS ind
     - Focus: Build deep, foundational programming and scripting capabilities tailored for system administration and network automation.
 - **Cisco DevNet Associate** _Infrastructure as Code_</br>
     - Focus: Translate Python skills into practical application by automating network infrastructure, codifying configurations, and mastering API interactions using industry-standard Cisco methodologies.
+- **USF Cyberworks Program** _TENTATIVE_</br>
+    - Status: Started application. This would replace the Google Program.
+    - Focus: Learn from USF Experts regarding Security working towards obtaining my Security+ certification.
 - **Google Cybersecurity Certification** _Framework & Cost Optimization_</br>
     - Focus: Align with modern, industry-vetted cybersecurity fundamentals while strategically securing the voucher discount for subsequent DoD-compliant validation.
 - **CompTIA Security+** _Industry & DoD Validation_</br>
