@@ -37,7 +37,7 @@
 <a href = "https://www.credly.com/badges/97ee90cb-e98c-4571-994d-80bcbcfa13e3">
   <img src = "https://images.credly.com/size/340x340/images/1d36cb36-20fc-4961-8d70-6307c015d1aa/blob" style ="width: 100px; height: 100px; background-color: white; padding: 40px" />
 </a>
-<a href = "https://teex.org/program/technical-cybersecurity/">
+<a href = "https://github.com/zachncurry/TEEX-Technical-Cybersecurity-Certificate">
     <img src = "https://images.credly.com/images/1d3812f7-f6b1-4fbf-a75c-552832dc77cf/blob.png" style="width:100px; background-color: white; padding: 40px" />
 </a>
 </div>
