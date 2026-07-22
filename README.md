@@ -79,6 +79,7 @@ Currently, with the onset of Large Language Models and an ever maturing SaaS ind
     - Focus: Translate Python skills into practical application by automating network infrastructure, codifying configurations, and mastering API interactions using industry-standard Cisco methodologies.
 - **USF CyberWorks Program** _TENTATIVE_</br>
     - Status: Started application. This would replace the Google Program.
+    - Goal: Sharpen my cybersecurity expertise alongside USF leaders while expanding my professional network within the Tampa tech ecosystem.
     - Focus:  CyberWorks provides specialized training for Florida residents in areas such as network security, digital forensics, threat detection, and incident response, equipping graduates with the knowledge and skills necessary to embark on exciting new careers in cybersecurity as a Tier 1 Cyber Security Analyst.
 - **Google Cybersecurity Certification** _Framework & Cost Optimization_</br>
     - Focus: Align with modern, industry-vetted cybersecurity fundamentals while strategically securing the voucher discount for subsequent DoD-compliant validation.
