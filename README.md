@@ -81,7 +81,7 @@ Currently, with the onset of Large Language Models and an ever maturing SaaS ind
     - Focus: Secure the baseline standard required for enterprise and defense-sector cybersecurity roles, reinforcing theoretical knowledge through a structured, compliance-driven lens not to mention security clearance.
 - **Enterprise Network Implementation Project** _GitHub Portfolio_</br>
     - Focus: Synthesize the semester's learning into a tangible, public-facing repository, demonstrating hands-on execution of secure, automated network deployments.
-- **Splunk Core** _Tentative_
+- _Tentative_ **Splunk Core** 
     - Focus: Get hands on experience with Splunk as an industry standard SIEM.</br>
     - Grateful to be sponsored by Splunk to pursue multiple certifications over several years.
 
@@ -104,6 +104,9 @@ Currently, with the onset of Large Language Models and an ever maturing SaaS ind
         - Disaster Recovery for Information Systems
         - Information Risk Management
         - Detecting and Responding to a Cyber Attack
+- _Tentative_ **Splunk Core Power User** 
+    - Focus: Get hands on experience with Splunk as an industry standard SIEM.</br>
+    - Grateful to be sponsored by Splunk to pursue multiple certifications over several years.
 -  _Tentative_ **IBM Cybersecurity Capstone Project"** _GitHub Portfolio_</br>
     - Focus: Validated hands-on technical execution of the incident response lifecycle, leveraging modern security tools to detect, contain, and remediate simulated enterprise threats.
 -  _Tentative_ **Project "BuzzyBee"** _GitHub Portfolio_</br>
