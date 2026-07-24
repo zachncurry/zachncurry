@@ -73,7 +73,7 @@ Currently, with the onset of Large Language Models and an ever maturing SaaS ind
 - **[Texas A & M Engineering for Technical Cybersecurity Certification](https://github.com/zachncurry/TEEX-Technical-Cybersecurity-Certificate)** _Complete_
     - Paid for by DHS/FEMA through my volunteer work with the ITDRC
     - Opens opportunity to join the ITDRC, Cybersecurity Response Team
-- **[Python for IT Automation](https://github.com/zachncurry/Python-for-IT-Automation/tree/main)** _GitHub Portfolio_</br>
+- **[Rogue DNS Server Detection & Remediation Lab](https://github.com/zachncurry/Rogue-DNS-Server-Detection-and-Remediation)** _GitHub Portfolio_</br>
     - Focus: Build deep, foundational programming and scripting capabilities tailored for system administration and network automation.
 - **Cisco DevNet Associate** _Infrastructure as Code_</br>
     - Focus: Translate Python skills into practical application by automating network infrastructure, codifying configurations, and mastering API interactions using industry-standard Cisco methodologies.
