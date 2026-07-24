@@ -77,19 +77,15 @@ Currently, with the onset of Large Language Models and an ever maturing SaaS ind
     - Focus: Build deep, foundational programming and scripting capabilities tailored for system administration and network automation.
 - **Cisco DevNet Associate** _Infrastructure as Code_</br>
     - Focus: Translate Python skills into practical application by automating network infrastructure, codifying configurations, and mastering API interactions using industry-standard Cisco methodologies.
-- **Google Cybersecurity Certification** _Framework & Cost Optimization_</br>
-    - Focus: Align with modern, industry-vetted cybersecurity fundamentals while strategically securing the voucher discount for subsequent DoD-compliant validation.
 - **CompTIA Security+** _Industry & DoD Validation_</br>
     - Focus: Secure the baseline standard required for enterprise and defense-sector cybersecurity roles, reinforcing theoretical knowledge through a structured, compliance-driven lens not to mention security clearance.
 - **Enterprise Network Implementation Project** _GitHub Portfolio_</br>
     - Focus: Synthesize the semester's learning into a tangible, public-facing repository, demonstrating hands-on execution of secure, automated network deployments.
 - **Splunk Core** _Tentative_
-    - Focus: Get hands on experience with Splunk as an industry standard SIEM.  
+    - Focus: Get hands on experience with Splunk as an industry standard SIEM.</br>
+    - Grateful to be sponsored by Splunk to pursue multiple certifications over several years.
 
-_A mentor once told me, plan with a map but follow the terrain._</br>
-**Excited to recast this plan to include Splunk and Texas A&M as of 7/10/2026!</br>
-Splunk has sponsored me providing the opportunity to pursue several certifications working to be a specialist!</br>
-ITDRC has enabled me to pursue additional education through Texas A&M and FEMA!**</br>
+
 
 
 
