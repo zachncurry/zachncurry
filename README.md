@@ -66,6 +66,8 @@ Currently, with the onset of Large Language Models and an ever maturing SaaS ind
 - July of 2025 started the BSc Network Engineering & Security degree at WGU because they are one of the few schools providing such specialized training.
     - Why another Bachelors? For me, success has always hinged on collaboration and the ability to speak the same language (terms, concepts, technologies). This degree provides the technical foundation I need to proactively mitigate risks and effectively navigate multi-disciplinary engineering initiatives while opening new professional opportunities to gain new experience.
 
+---
+
 ### Fall 2026/ Current Goals
 **Goal:** Establish a robust foundation in programmable infrastructure, advanced scripting, and baseline security frameworks to bridge the gap between traditional networking and modern DevOps/SecOps workflows.
 
@@ -85,7 +87,7 @@ Currently, with the onset of Large Language Models and an ever maturing SaaS ind
     - Focus: Get hands on experience with Splunk as an industry standard SIEM.</br>
     - Grateful to be sponsored by Splunk to pursue multiple certifications over several years.
 
-
+---
 
 
 
