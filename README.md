@@ -13,7 +13,6 @@
 - 😄 Pronouns: ... He, Him
 - ⚡ Fun fact: ... I have worked on Cruise Ships, I love coffee ☕, and bench 205+ lbs
 - 🦸 Favorite Character: Toss up between Yogi Bear _Hey Boo Boo!_ or The Orange Ninja Turtle
-- 🛥️ Lifetime Goal: To take a boat either through the Great Loop, cross the Atlantic, or cross the Pacific
 
 
 ## Certifications
