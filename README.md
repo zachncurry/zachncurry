@@ -8,7 +8,6 @@
 - 🤔 I’m looking for help with ... Cybersecurity Internships/ Employment Opportunities
 - 💬 Ask me about ... Program Management & Operations
 - 🦺 Volunteering Includes: [Information Technology Disaster Resource Center (ITDRC)](https://www.itdrc.org/) & [PMI Tampa Bay Chapter](https://pmitb.org/)
-- 🔭 I’m currently working on... [Rouge DNS Detection & Remeditation](https://github.com/zachncurry/Rogue-DNS-Server-Detection-and-Remediation) 
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/zachary-curry-pmp/)
 - 😄 Pronouns: ... He, Him
 - ⚡ Fun fact: ... I have worked on Cruise Ships, I love coffee ☕, and bench 205+ lbs
