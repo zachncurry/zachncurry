@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-### I'm Zach, a [Network and Security Engineer](https://www.cyberseek.org/heatmap.html) based in Tampa, Florida.
+### I'm Zach, a [Network and Security Engineer](https://www.cyberseek.org/heatmap.html) & Program Manager based in Tampa, Florida.
 
 - 📚 I’m currently enrolled at ... [Western Governors University for a BSc Network Engineering & Security Cisco Track](https://www.wgu.edu/content/dam/wgu-65-assets/western-governors/documents/program-guides/information-technology/BSNES_C.pdf)
 - 🌱 I’m currently learning ... [Cisco DevNet Associate](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/automation/ccna-automation/index.html)
