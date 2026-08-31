@@ -2,7 +2,7 @@
 
 ### I'm Zach, a [Network and Security Engineer](https://www.cyberseek.org/heatmap.html) & Program Manager based in Tampa, Florida.
 
-- 💬 Ask me about ... Program Management & Operations
+- 💬 Ask me about ... Program Management [Operations, Technical, & Business] 
 - 🦺 Volunteering Includes: [Information Technology Disaster Resource Center (ITDRC)](https://www.itdrc.org/) & [PMI Tampa Bay Chapter](https://pmitb.org/)
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/zachary-curry-pmp/)
 - 😄 Pronouns: ... He, Him
