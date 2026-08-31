@@ -4,8 +4,6 @@
 
 - 📚 I’m currently enrolled at ... [Western Governors University for a BSc Network Engineering & Security Cisco Track](https://www.wgu.edu/content/dam/wgu-65-assets/western-governors/documents/program-guides/information-technology/BSNES_C.pdf)
 - 🌱 I’m currently learning ... [Cisco DevNet Associate](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/automation/ccna-automation/index.html)
-- 👯 I’m looking to collaborate on ... Cybersercurity Concepts & Cryptography Methods
-- 🤔 I’m looking for help with ... Cybersecurity Internships/ Employment Opportunities
 - 💬 Ask me about ... Program Management & Operations
 - 🦺 Volunteering Includes: [Information Technology Disaster Resource Center (ITDRC)](https://www.itdrc.org/) & [PMI Tampa Bay Chapter](https://pmitb.org/)
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/zachary-curry-pmp/)
