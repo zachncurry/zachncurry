@@ -2,12 +2,13 @@
 
 ### I'm Zach, a [Network and Security Engineer](https://www.cyberseek.org/heatmap.html) & Program Manager based in Tampa, Florida.
 
-- 💬 Ask me about ... Program Management [Operations, Technical, & Business] 
-- 🦺 Volunteering Includes: [Information Technology Disaster Resource Center (ITDRC)](https://www.itdrc.org/) & [PMI Tampa Bay Chapter](https://pmitb.org/)
+- 💬 Ask me about ... Program Management [Operations, Technical, & Business]
+- 💪 My Superpower... Clarity - I enjoy working on complex challenges and finding solutions. Which often starts with analyzing if we are asking the right question.
+- 🦺 Volunteering Includes... [Information Technology Disaster Resource Center (ITDRC)](https://www.itdrc.org/) & [PMI Tampa Bay Chapter](https://pmitb.org/)
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/zachary-curry-pmp/)
 - 😄 Pronouns: ... He, Him
 - ⚡ Fun fact: ... I have worked on Cruise Ships, I love coffee ☕, and bench 225+ lbs
-- 🦸 Favorite Character: Toss up between Yogi Bear _Hey Boo Boo!_ or The Orange Ninja Turtle
+- 🦸 Favorite Character... Toss up between Yogi Bear _Hey Boo Boo!_ or The Orange Ninja Turtle
 
 
 ## Certifications
