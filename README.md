@@ -2,13 +2,11 @@
 
 ### I'm Zach, a [Network and Security Engineer](https://www.cyberseek.org/heatmap.html) & Program Manager based in Tampa, Florida.
 
-- 📚 I’m currently enrolled at ... [Western Governors University for a BSc Network Engineering & Security Cisco Track](https://www.wgu.edu/content/dam/wgu-65-assets/western-governors/documents/program-guides/information-technology/BSNES_C.pdf)
-- 🌱 I’m currently learning ... [Cisco DevNet Associate](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/automation/ccna-automation/index.html)
 - 💬 Ask me about ... Program Management & Operations
 - 🦺 Volunteering Includes: [Information Technology Disaster Resource Center (ITDRC)](https://www.itdrc.org/) & [PMI Tampa Bay Chapter](https://pmitb.org/)
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/zachary-curry-pmp/)
 - 😄 Pronouns: ... He, Him
-- ⚡ Fun fact: ... I have worked on Cruise Ships, I love coffee ☕, and bench 205+ lbs
+- ⚡ Fun fact: ... I have worked on Cruise Ships, I love coffee ☕, and bench 225+ lbs
 - 🦸 Favorite Character: Toss up between Yogi Bear _Hey Boo Boo!_ or The Orange Ninja Turtle
 
 
