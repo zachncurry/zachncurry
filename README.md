@@ -7,7 +7,7 @@
 - 🦺 Volunteering Includes... [Information Technology Disaster Resource Center (ITDRC)](https://www.itdrc.org/) & [PMI Tampa Bay Chapter](https://pmitb.org/)
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/zachary-curry-pmp/)
 - 😄 Pronouns: ... He, Him
-- ⚡ Fun fact: ... I have worked on Cruise Ships, I love coffee ☕, and bench 225+ lbs
+- ⚡ Fun facts: ... I have worked on Cruise Ships, I love coffee ☕, and bench 225+ lbs
 - 🦸 Favorite Character... Toss up between Yogi Bear _Hey Boo Boo!_ or The Orange Ninja Turtle
 
 
