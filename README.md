@@ -4,6 +4,7 @@
 
 - 💬 Ask me about ... Program Management [Operations, Technical, & Business]
 - 💪 My Superpower... Clarity - I enjoy working on complex challenges and finding solutions. Which often starts with analyzing if we are asking the right question.
+  - For Example: You tell two people they need to hit 10,000 steps per day for 5 days. One does exactly that and fails while the other does it and succeeds. How could both be true? The goal is weight loss. This highlights the difference between a task and a deliverable. As a Program Manager it is important to understand the desired outcome, analyze resourcing to provide appropriate methods, communicate the tradeoffs, recommend a path forward, and then execute not for getting as many steps as possible but hitting a SMART goal, deliverable, or larger vision such as losing 2 pounds within 1 week.
 - 📚 Currently Studying... [Cisco Automation Associate formerly DevNet](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/automation/ccna-automation/index.html)
 - 🦺 Volunteering Includes... [Information Technology Disaster Resource Center (ITDRC)](https://www.itdrc.org/) & [PMI Tampa Bay Chapter](https://pmitb.org/)
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/zachary-curry-pmp/)
