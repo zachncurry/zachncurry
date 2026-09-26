@@ -4,7 +4,7 @@
 
 - 💬 Ask me about ... Program Management [Operations, Technical, & Business]
 - 💪 My Superpower... Clarity - I enjoy working on complex challenges and finding solutions. Which often starts with analyzing if we are asking the right question.
-- 📚 Currently Studying... [Cisco Automation Associate formerly DevNet](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/automation/ccna-automation/index.html)
+- 📚 Currently Studying... [Cisco Automation Associate formerly DevNet](https://github.com/zachncurry/CCNA-DevNet-Lessons-Learned)
 - 🦺 Volunteering Includes... [Information Technology Disaster Resource Center (ITDRC)](https://www.itdrc.org/) & [PMI Tampa Bay Chapter](https://pmitb.org/)
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/zachary-curry-pmp/)
 - 😄 Pronouns: ... He, Him
