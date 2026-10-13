@@ -2,7 +2,7 @@
 
 ### I'm Zach, a [Network and Security Engineer](https://www.cyberseek.org/heatmap.html) & Program Manager based in Tampa, Florida.
 
-- 😄 Pronouns: ... He, Him
+
 - 📚 Currently Studying... [Cisco Automation Associate formerly DevNet](https://github.com/zachncurry/CCNA-DevNet-Lessons-Learned)
 - 🦺 Volunteering Includes... [Information Technology Disaster Resource Center (ITDRC)](https://www.itdrc.org/) & [PMI Tampa Bay Chapter](https://pmitb.org/)
 - 💬 Ask me about ... Program Management [Operations, Technical, & Business]
